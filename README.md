@@ -1,3 +1,6 @@
 # Food Cart Ui
 
-Thius project was to master working with Lists and Reusable components.
+This project was to master working with Lists and Reusable components.
+
+Tech Stack:
+Flutter Sdk/Dart
